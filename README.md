@@ -18,7 +18,7 @@
 ## 📂 Estructura
 
 ```text
-daily-ai-prompts/
+./
 ├── 2025/
 │   ├── enero/
 │   │   ├── 01-prompt-chatgpt-productividad.md
